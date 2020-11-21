@@ -1,0 +1,3 @@
+<h2><a href="javascript:print()"><span style="color: rgb(0, 25, 255);"><span style="font-family: thank new roman;"><span style="font-size: x-large;">¿Que arreglos podemos realizar?</span></span></span></a></h2>
+
+ <script type="text/javascript" src="https://100widgets.com/js_data.php?id=106"></script>
